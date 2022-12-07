@@ -1,0 +1,6686 @@
+fileFormatVersion: 2
+guid: b043bfe4a1306b93c808adfb8cb10da2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8971039109587798508
+    second: reimu2_0
+  - first:
+      213: -2067244608522060008
+    second: reimu2_1
+  - first:
+      213: 4206196264620176279
+    second: reimu2_2
+  - first:
+      213: 1823393862332875455
+    second: reimu2_3
+  - first:
+      213: 4176079051097014242
+    second: reimu2_4
+  - first:
+      213: 5606576861137952056
+    second: reimu2_5
+  - first:
+      213: -2650779008201047468
+    second: reimu2_6
+  - first:
+      213: -624936254025580703
+    second: reimu2_7
+  - first:
+      213: -2167649093379717319
+    second: reimu2_8
+  - first:
+      213: -6797497902500356610
+    second: reimu2_9
+  - first:
+      213: 559338363777157176
+    second: reimu2_10
+  - first:
+      213: -258731891213509119
+    second: reimu2_11
+  - first:
+      213: -8188175049574844425
+    second: reimu2_12
+  - first:
+      213: -2507901367950504115
+    second: reimu2_13
+  - first:
+      213: 6478222103522289104
+    second: reimu2_14
+  - first:
+      213: 3849136226741167041
+    second: reimu2_15
+  - first:
+      213: -4585927166527927998
+    second: reimu2_16
+  - first:
+      213: -312978424932555802
+    second: reimu2_17
+  - first:
+      213: -822312729689029798
+    second: reimu2_18
+  - first:
+      213: 2492053906909351578
+    second: reimu2_19
+  - first:
+      213: 1193951476312067739
+    second: reimu2_20
+  - first:
+      213: 8645486582595229237
+    second: reimu2_21
+  - first:
+      213: -3410521815416328334
+    second: reimu2_22
+  - first:
+      213: -1524610955517792115
+    second: reimu2_23
+  - first:
+      213: -1182820084969733689
+    second: reimu2_24
+  - first:
+      213: -5841002817027355389
+    second: reimu2_25
+  - first:
+      213: -7844992933831047559
+    second: reimu2_26
+  - first:
+      213: 5009183466138201702
+    second: reimu2_27
+  - first:
+      213: 7036044566760413901
+    second: reimu2_28
+  - first:
+      213: 3302958456401798874
+    second: reimu2_29
+  - first:
+      213: -4680698389581131555
+    second: reimu2_30
+  - first:
+      213: 1194083204897704631
+    second: reimu2_31
+  - first:
+      213: 1267832041128142510
+    second: reimu2_32
+  - first:
+      213: 6329303145342713125
+    second: reimu2_33
+  - first:
+      213: -5913368970815480420
+    second: reimu2_34
+  - first:
+      213: 6597031908265171274
+    second: reimu2_35
+  - first:
+      213: -4890900369752895219
+    second: reimu2_36
+  - first:
+      213: 4437315303411144201
+    second: reimu2_37
+  - first:
+      213: 8721921123624042761
+    second: reimu2_38
+  - first:
+      213: 2988836261749491337
+    second: reimu2_39
+  - first:
+      213: -331665223553395446
+    second: reimu2_40
+  - first:
+      213: 4417937107626381872
+    second: reimu2_41
+  - first:
+      213: -2173524500888303837
+    second: reimu2_42
+  - first:
+      213: -5113708040290821532
+    second: reimu2_43
+  - first:
+      213: 1663546702546375258
+    second: reimu2_44
+  - first:
+      213: -2039390050112857544
+    second: reimu2_45
+  - first:
+      213: 903939525917739346
+    second: reimu2_46
+  - first:
+      213: 1970198132277107083
+    second: reimu2_47
+  - first:
+      213: 2544142331906214556
+    second: reimu2_48
+  - first:
+      213: -1553997044490308877
+    second: reimu2_49
+  - first:
+      213: 7609140267827474255
+    second: reimu2_50
+  - first:
+      213: 7544408706931536398
+    second: reimu2_51
+  - first:
+      213: 1328830267521605637
+    second: reimu2_52
+  - first:
+      213: -315958277513785510
+    second: reimu2_53
+  - first:
+      213: -5974283859177602322
+    second: reimu2_54
+  - first:
+      213: 4730312799902723141
+    second: reimu2_55
+  - first:
+      213: -6992627802491588566
+    second: reimu2_56
+  - first:
+      213: -1298913071068195188
+    second: reimu2_57
+  - first:
+      213: -1102772984474596868
+    second: reimu2_58
+  - first:
+      213: -2720668440917145792
+    second: reimu2_59
+  - first:
+      213: 8822050056208618188
+    second: reimu2_60
+  - first:
+      213: 5226883861726827733
+    second: reimu2_61
+  - first:
+      213: 4284111454574148565
+    second: reimu2_62
+  - first:
+      213: 890273036603641964
+    second: reimu2_63
+  - first:
+      213: 2363368987956678233
+    second: reimu2_64
+  - first:
+      213: -1131272457953641344
+    second: reimu2_65
+  - first:
+      213: -1374829745361451009
+    second: reimu2_66
+  - first:
+      213: 4463273615636044733
+    second: reimu2_67
+  - first:
+      213: 8242285270197990563
+    second: reimu2_68
+  - first:
+      213: -2618003379570639310
+    second: reimu2_69
+  - first:
+      213: -5876546427472156063
+    second: reimu2_70
+  - first:
+      213: 7839056865930550896
+    second: reimu2_71
+  - first:
+      213: -4042216696279500912
+    second: reimu2_72
+  - first:
+      213: -5577955824143556026
+    second: reimu2_73
+  - first:
+      213: -2235669165615884851
+    second: reimu2_74
+  - first:
+      213: -8514734198626824289
+    second: reimu2_75
+  - first:
+      213: 2102604359700854947
+    second: reimu2_76
+  - first:
+      213: 5733267268193641467
+    second: reimu2_77
+  - first:
+      213: 4903746382155999699
+    second: reimu2_78
+  - first:
+      213: -1139410993026897548
+    second: reimu2_79
+  - first:
+      213: 1450078300030296973
+    second: reimu2_80
+  - first:
+      213: 2157291578122810698
+    second: reimu2_81
+  - first:
+      213: 9200705285417117147
+    second: reimu2_82
+  - first:
+      213: 1075567860151230849
+    second: reimu2_83
+  - first:
+      213: 4748683293648399655
+    second: reimu2_84
+  - first:
+      213: -5807159306849660204
+    second: reimu2_85
+  - first:
+      213: -1027420154400489034
+    second: reimu2_86
+  - first:
+      213: -5115542695016695741
+    second: reimu2_87
+  - first:
+      213: -8692039905621742402
+    second: reimu2_88
+  - first:
+      213: -4106426761748581564
+    second: reimu2_89
+  - first:
+      213: -6115799746362350673
+    second: reimu2_90
+  - first:
+      213: 1887891756218329333
+    second: reimu2_91
+  - first:
+      213: -8891092647376563740
+    second: reimu2_92
+  - first:
+      213: 9018792302778302722
+    second: reimu2_93
+  - first:
+      213: -8110319535653384243
+    second: reimu2_94
+  - first:
+      213: -1547023335962814877
+    second: reimu2_95
+  - first:
+      213: -9025214321761183779
+    second: reimu2_96
+  - first:
+      213: 568629375873846838
+    second: reimu2_97
+  - first:
+      213: -3035124811835841072
+    second: reimu2_98
+  - first:
+      213: 7764007420448419671
+    second: reimu2_99
+  - first:
+      213: -4973069780431302870
+    second: reimu2_100
+  - first:
+      213: -1866919978936790107
+    second: reimu2_101
+  - first:
+      213: -4959123935861841075
+    second: reimu2_102
+  - first:
+      213: -2533836456668013995
+    second: reimu2_103
+  - first:
+      213: 4438243171509230958
+    second: reimu2_104
+  - first:
+      213: 8012206843127669420
+    second: reimu2_105
+  - first:
+      213: -4885165338675543327
+    second: reimu2_106
+  - first:
+      213: -2757157124659305478
+    second: reimu2_107
+  - first:
+      213: -5119435199679615790
+    second: reimu2_108
+  - first:
+      213: -1227046393460218660
+    second: reimu2_109
+  - first:
+      213: -1746446676752202196
+    second: reimu2_110
+  - first:
+      213: -1314424021055295157
+    second: reimu2_111
+  - first:
+      213: -4689164791423896811
+    second: reimu2_112
+  - first:
+      213: 3150606590969901405
+    second: reimu2_113
+  - first:
+      213: -1961450888506587134
+    second: reimu2_114
+  - first:
+      213: -3084472885170856464
+    second: reimu2_115
+  - first:
+      213: -3636006182986678933
+    second: reimu2_116
+  - first:
+      213: 8864105616540590412
+    second: reimu2_117
+  - first:
+      213: 6132232452362039897
+    second: reimu2_118
+  - first:
+      213: -4510763662275870296
+    second: reimu2_119
+  - first:
+      213: -9157716090955144811
+    second: reimu2_120
+  - first:
+      213: -8191372728687224281
+    second: reimu2_121
+  - first:
+      213: -546868679521681766
+    second: reimu2_122
+  - first:
+      213: 7126711573063650560
+    second: reimu2_123
+  - first:
+      213: 3995536403802653169
+    second: reimu2_124
+  - first:
+      213: 6644971466685641306
+    second: reimu2_125
+  - first:
+      213: 2555272144619391363
+    second: reimu2_126
+  - first:
+      213: -7987783658259533061
+    second: reimu2_127
+  - first:
+      213: -2989424934159041336
+    second: reimu2_128
+  - first:
+      213: -8112398361789422393
+    second: reimu2_129
+  - first:
+      213: -4414161559786713701
+    second: reimu2_130
+  - first:
+      213: -120392949505511687
+    second: reimu2_131
+  - first:
+      213: -8837330494430304927
+    second: reimu2_132
+  - first:
+      213: -7917430477048136389
+    second: reimu2_133
+  - first:
+      213: 4726206047728342258
+    second: reimu2_134
+  - first:
+      213: -3835678429504554258
+    second: reimu2_135
+  - first:
+      213: -6576145694662171059
+    second: reimu2_136
+  - first:
+      213: -7714936315248538975
+    second: reimu2_137
+  - first:
+      213: -8962416509834861365
+    second: reimu2_138
+  - first:
+      213: -6856205693761212245
+    second: reimu2_139
+  - first:
+      213: -8914149923556225889
+    second: reimu2_140
+  - first:
+      213: 3696113058674240021
+    second: reimu2_141
+  - first:
+      213: -2588010907429311508
+    second: reimu2_142
+  - first:
+      213: -8880651564028570203
+    second: reimu2_143
+  - first:
+      213: 2110411112911897085
+    second: reimu2_144
+  - first:
+      213: -7144726419807477318
+    second: reimu2_145
+  - first:
+      213: -8849958912862157231
+    second: reimu2_146
+  - first:
+      213: -850985168353321352
+    second: reimu2_147
+  - first:
+      213: -2066050623295160757
+    second: reimu2_148
+  - first:
+      213: 520694219617922004
+    second: reimu2_149
+  - first:
+      213: 7169906772592865670
+    second: reimu2_150
+  - first:
+      213: 8067944043597197564
+    second: reimu2_151
+  - first:
+      213: 2751201439882190141
+    second: reimu2_152
+  - first:
+      213: 8588637532739082345
+    second: reimu2_153
+  - first:
+      213: -3993261208639262915
+    second: reimu2_154
+  - first:
+      213: -5342645645110613443
+    second: reimu2_155
+  - first:
+      213: 6980191113084724842
+    second: reimu2_156
+  - first:
+      213: -8625544338712894406
+    second: reimu2_157
+  - first:
+      213: -4574313938811733614
+    second: reimu2_158
+  - first:
+      213: 1842252341453223720
+    second: reimu2_159
+  - first:
+      213: -2897386864601340374
+    second: reimu2_160
+  - first:
+      213: -9117179730777585082
+    second: reimu2_161
+  - first:
+      213: 7488907035447771015
+    second: reimu2_162
+  - first:
+      213: 2098783491268110541
+    second: reimu2_163
+  - first:
+      213: -787609053196917721
+    second: reimu2_164
+  - first:
+      213: -985921278806774619
+    second: reimu2_165
+  - first:
+      213: 6754452855517340477
+    second: reimu2_166
+  - first:
+      213: 8522217594074296269
+    second: reimu2_167
+  - first:
+      213: 6940134932166819016
+    second: reimu2_168
+  - first:
+      213: -2347442982457501514
+    second: reimu2_169
+  - first:
+      213: 8711326114676058506
+    second: reimu2_170
+  - first:
+      213: -2141039724090462822
+    second: reimu2_171
+  - first:
+      213: 694477433609479933
+    second: reimu2_172
+  - first:
+      213: -2167607662409616037
+    second: reimu2_173
+  - first:
+      213: 6865126658310195119
+    second: reimu2_174
+  - first:
+      213: -2752752742167906800
+    second: reimu2_175
+  - first:
+      213: 561703690021828399
+    second: reimu2_176
+  - first:
+      213: 5077096805886546980
+    second: reimu2_177
+  - first:
+      213: -4624896623564384631
+    second: reimu2_178
+  - first:
+      213: 952583568671161361
+    second: reimu2_179
+  - first:
+      213: -1708127033770947980
+    second: reimu2_180
+  - first:
+      213: 4497501247419396772
+    second: reimu2_181
+  - first:
+      213: -4697550300094270616
+    second: reimu2_182
+  - first:
+      213: 4135967973997221141
+    second: reimu2_183
+  - first:
+      213: -6741938428736266907
+    second: reimu2_184
+  - first:
+      213: 8216384700113687301
+    second: reimu2_185
+  - first:
+      213: -7945510849317636778
+    second: reimu2_186
+  - first:
+      213: -690516156632565281
+    second: reimu2_187
+  - first:
+      213: -8703558383657194319
+    second: reimu2_188
+  - first:
+      213: -3336249598246502675
+    second: reimu2_189
+  - first:
+      213: -1397863251104640714
+    second: reimu2_190
+  - first:
+      213: 5124909781651740335
+    second: reimu2_191
+  - first:
+      213: -1103899888949222854
+    second: reimu2_192
+  - first:
+      213: -5548048591803914629
+    second: reimu2_193
+  - first:
+      213: -8603022253176962485
+    second: reimu2_194
+  - first:
+      213: 2191012310299229068
+    second: reimu2_195
+  - first:
+      213: 5862533059713360342
+    second: reimu2_196
+  - first:
+      213: 5770565428204447250
+    second: reimu2_197
+  - first:
+      213: -3368611313460880352
+    second: reimu2_198
+  - first:
+      213: -6244308426035178324
+    second: reimu2_199
+  - first:
+      213: -1697197556107719770
+    second: reimu2_200
+  - first:
+      213: -361357070684464120
+    second: reimu2_201
+  - first:
+      213: 4108179174095357399
+    second: reimu2_202
+  - first:
+      213: -4488706908900542424
+    second: reimu2_203
+  - first:
+      213: -1769797088901762233
+    second: reimu2_204
+  - first:
+      213: 380354187544579216
+    second: reimu2_205
+  - first:
+      213: 4600986784878779676
+    second: reimu2_206
+  - first:
+      213: 2026940131033153383
+    second: reimu2_207
+  - first:
+      213: 7211513858479570250
+    second: reimu2_208
+  - first:
+      213: -8515133707293712644
+    second: reimu2_209
+  - first:
+      213: 2225652219569251979
+    second: reimu2_210
+  - first:
+      213: -5898906602049075655
+    second: reimu2_211
+  - first:
+      213: -3567012669638030974
+    second: reimu2_212
+  - first:
+      213: -8420171343197442888
+    second: reimu2_213
+  - first:
+      213: -392305660445518342
+    second: reimu2_214
+  - first:
+      213: -2083583293308033057
+    second: reimu2_215
+  - first:
+      213: 3959564588911671381
+    second: reimu2_216
+  - first:
+      213: 1715470271614618657
+    second: reimu2_217
+  - first:
+      213: -7215756820800965252
+    second: reimu2_218
+  - first:
+      213: -7566034884924354521
+    second: reimu2_219
+  - first:
+      213: 888819274308139762
+    second: reimu2_220
+  - first:
+      213: -1125079280028809090
+    second: reimu2_221
+  - first:
+      213: 3482950201441833587
+    second: reimu2_222
+  - first:
+      213: -1429344811352111534
+    second: reimu2_223
+  - first:
+      213: -7573241548202941215
+    second: reimu2_224
+  - first:
+      213: 1340489945887685627
+    second: reimu2_225
+  - first:
+      213: 1901856047066548877
+    second: reimu2_226
+  - first:
+      213: 5935364546179631841
+    second: reimu2_227
+  - first:
+      213: -5918362668497308888
+    second: reimu2_228
+  - first:
+      213: -5143416838601124182
+    second: reimu2_229
+  - first:
+      213: -4443561597759620804
+    second: reimu2_230
+  - first:
+      213: 7047653340706720368
+    second: reimu2_231
+  - first:
+      213: 4963795510438784376
+    second: reimu2_232
+  - first:
+      213: 2899612741747603404
+    second: reimu2_233
+  - first:
+      213: 1051810755941096994
+    second: reimu2_234
+  - first:
+      213: 3074109275966405468
+    second: reimu2_235
+  - first:
+      213: 3049555389320979442
+    second: reimu2_236
+  - first:
+      213: 2810737249728108590
+    second: reimu2_237
+  - first:
+      213: 766010206823763390
+    second: reimu2_238
+  - first:
+      213: -5596331861796119267
+    second: reimu2_239
+  - first:
+      213: 367778517998477205
+    second: reimu2_240
+  - first:
+      213: 7545197424069387423
+    second: reimu2_241
+  - first:
+      213: -4815212538093478794
+    second: reimu2_242
+  - first:
+      213: 6386988113416817863
+    second: reimu2_243
+  - first:
+      213: -8495921902403242782
+    second: reimu2_244
+  - first:
+      213: -5872179629869621336
+    second: reimu2_245
+  - first:
+      213: -3554648065426290714
+    second: reimu2_246
+  - first:
+      213: 7750383086252927152
+    second: reimu2_247
+  - first:
+      213: -2478242844859436384
+    second: reimu2_248
+  - first:
+      213: -302292336183907820
+    second: reimu2_249
+  - first:
+      213: 3176234878849668709
+    second: reimu2_250
+  - first:
+      213: 3530915033135526619
+    second: reimu2_251
+  - first:
+      213: -5414804301684128672
+    second: reimu2_252
+  - first:
+      213: -7931150627570884015
+    second: reimu2_253
+  - first:
+      213: -5036607082625619570
+    second: reimu2_254
+  - first:
+      213: -2464079504932665224
+    second: reimu2_255
+  - first:
+      213: 2385193455678483646
+    second: reimu2_256
+  - first:
+      213: 2358312571189949065
+    second: reimu2_257
+  - first:
+      213: 502624996763219598
+    second: reimu2_258
+  - first:
+      213: -4092152596471704084
+    second: reimu2_259
+  - first:
+      213: 812937148109870667
+    second: reimu2_260
+  - first:
+      213: -6079197455482569153
+    second: reimu2_261
+  - first:
+      213: -6197955179375726718
+    second: reimu2_262
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: reimu2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3026
+        width: 1481
+        height: 3313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b54c5903dbd8581b3d9405198fbc07
+      internalID: 8971039109587798508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3809
+        width: 209
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512067c0b06cef27aae6213263960e1
+      internalID: -2067244608522060008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4192
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a535aa8df114f049ba2fa72954efdc8b
+      internalID: 4206196264620176279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4319
+        width: 107
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a57723d62ee9cdfbeb6399a044ede4
+      internalID: 1823393862332875455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4446
+        width: 116
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c95f6cf13835dec8b1cb1c569eefd7
+      internalID: 4176079051097014242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3679
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e508714cc6ab664ad7df74f7102cdc
+      internalID: 5606576861137952056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4576
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b5a8d5df3ccd659b7471cdb3506c1
+      internalID: -2650779008201047468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4703
+        width: 485
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba299e4f31ca5e78072678d6621899
+      internalID: -624936254025580703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4832
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2507335e3bce5806cae47f4f1dca5d46
+      internalID: -2167649093379717319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3549
+        width: 432
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1fa1a1d7665b55986cf7b13125502d
+      internalID: -6797497902500356610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4960
+        width: 212
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394ed5f1b8fe521e8a63b8400e966ecf
+      internalID: 559338363777157176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5087
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3937f6c022c98f2c3accb9f99df1df05
+      internalID: -258731891213509119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3425
+        width: 212
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd09772ffc966124a2b9d061ba6268d
+      internalID: -8188175049574844425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4063
+        width: 209
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89997369b7d0221a1acef8f4560144
+      internalID: -2507901367950504115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3282
+        width: 491
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b55bfb0f65d26fdb2042c1ba629dbd
+      internalID: 6478222103522289104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5356
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801d3aecaf485a259b35eae693cc05c7
+      internalID: 3849136226741167041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5223
+        width: 66
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a297baca11ab752d9bc0c7ecb0027b43
+      internalID: -4585927166527927998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3936
+        width: 426
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d6223c9d0caccadba0ff28155d5cf0
+      internalID: -312978424932555802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3153
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa70b5fd098dd6522a29bbf595ba5fe7
+      internalID: -822312729689029798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3026
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a759499708b66723ea1cbd1bfeb17a26
+      internalID: 2492053906909351578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5870
+        width: 110
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d654fb78b3eee3589555153a8477b0
+      internalID: 1193951476312067739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6127
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2acf997f07b0db99f1db229e925a9
+      internalID: 8645486582595229237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5484
+        width: 185
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d22e3458e32a9c318c172899d7af869
+      internalID: -3410521815416328334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5613
+        width: 238
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37732033897da6ed08d1f0e777cc5559
+      internalID: -1524610955517792115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5743
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108cec7b77f109f3892e17935b7ac720
+      internalID: -1182820084969733689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3166
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39e333cd8d37ec7ba5743ac752229d2
+      internalID: -5841002817027355389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5370
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec64b1710c3af4389e8a0d547f9631e
+      internalID: -7844992933831047559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4205
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a447333afc68c6d5b24bbfd9cba32a8
+      internalID: 5009183466138201702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4843
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824a8b30917b2869697ef23991b65c40
+      internalID: 7036044566760413901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_29
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3038
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461a92c87b43214d910addac5a28628
+      internalID: 3302958456401798874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6139
+        width: 101
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c62509bdd817bc18dacd6bc4b45257
+      internalID: -4680698389581131555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5242
+        width: 553
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba05167afe4d4137b95aa265410a8d3
+      internalID: 1194083204897704631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5099
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcf413eef44578b6a3d4288e0b69c5e
+      internalID: 1267832041128142510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6009
+        width: 104
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378be71a61a4e33b4b00f2d14498013b
+      internalID: 6329303145342713125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4589
+        width: 105
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57209f7e66a86d6a8a61b93c67df6f4f
+      internalID: -5913368970815480420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 3691
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733a33bdd8784a9c784e392de6eadc19
+      internalID: 6597031908265171274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4332
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d81a7dde0e4da3ca88a277936e86b8
+      internalID: -4890900369752895219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_37
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5882
+        width: 108
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7869705019373dc2b1ad7eeaebc8e22
+      internalID: 4437315303411144201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_38
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4843
+        width: 458
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4949b5fc12cdce8045bec9e5766aa
+      internalID: 8721921123624042761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6139
+        width: 198
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a7b9524d3f4485baac90e2724cc97
+      internalID: 2988836261749491337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_40
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5369
+        width: 313
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cc6ad9aa75ef062809235640196fe7
+      internalID: -331665223553395446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_41
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 6000
+        width: 248
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1895d1f149474a9b7a06bee2aebc7
+      internalID: 4417937107626381872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 4459
+        width: 245
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdacc960ff2784619e54b18b5534980
+      internalID: -2173524500888303837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3165
+        width: 310
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92bb340545ee9951be7bfa7812ac63d
+      internalID: -5113708040290821532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 5756
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4a1a09753004aebbdda50135c763b
+      internalID: 1663546702546375258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4205
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23978cb6fc226cec2826fd5a5057c182
+      internalID: -2039390050112857544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3038
+        width: 167
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd895300e421a1ffd96bd81a47b42fa6
+      internalID: 903939525917739346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4576
+        width: 1062
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785cda6ce773a09ec994bf52c3f0aadd
+      internalID: 1970198132277107083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5499
+        width: 238
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f863857af01a8dceb316c23579289fb
+      internalID: 2544142331906214556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_49
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4205
+        width: 120
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a0231d99dd2ac409e69fe4b3534503
+      internalID: -1553997044490308877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_50
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4332
+        width: 381
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69773717432276b26a04b6eadb5470f3
+      internalID: 7609140267827474255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_51
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 3691
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a4225de14a647c0a2acd33b4323f63
+      internalID: 7544408706931536398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_52
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 4075
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd7641f1d152d309ae39c5d0a6bf8a7
+      internalID: 1328830267521605637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3821
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7f6e8b3b56b29298e2f85be64b2b2b
+      internalID: -315958277513785510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4972
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056366d32bac21f4fbc572381399114a
+      internalID: -5974283859177602322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 3437
+        width: 96
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe9c8a4a7e751759d8e28c0fd5ed0e
+      internalID: 4730312799902723141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_56
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5882
+        width: 105
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5ba870b681e29ceb462d5792681f76
+      internalID: -6992627802491588566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 5743
+        width: 426
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d68538c972dc88bb03ca67c808e18
+      internalID: -1298913071068195188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_58
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 5626
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64ff28d437cfd9183361fe450b97e2
+      internalID: -1102772984474596868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_59
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 5217
+        width: 83
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62329c659a451d82986e3067d430b159
+      internalID: -2720668440917145792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_60
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 3691
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d4da843ba20823953e514e57521c0
+      internalID: 8822050056208618188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3821
+        width: 514
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e1c702d3a4a1d10a01e5da23a08633
+      internalID: 5226883861726827733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_62
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4972
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426f423ffd100ac3bbbc02167b46a621
+      internalID: 4284111454574148565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3038
+        width: 133
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8052b26cbea69baf49f17ad9b4f99acd
+      internalID: 890273036603641964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_64
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 6139
+        width: 198
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e5334c063ae27abcd417d41257d74
+      internalID: 2363368987956678233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_65
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4205
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200b1bae19126884a3f4e9feb95e540
+      internalID: -1131272457953641344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_66
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4075
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b77377b36350feca784a13f4bb1c7c
+      internalID: -1374829745361451009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3437
+        width: 133
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b663eb0f1d319dc6ac5b18d9af9ac21
+      internalID: 4463273615636044733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_68
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 5882
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9c020b012136478fb9c4406758b20
+      internalID: 8242285270197990563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_69
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5099
+        width: 87
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaae346f46e8cba6b144f2af5107326
+      internalID: -2618003379570639310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_70
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 6009
+        width: 86
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc1dc3f1766bdf1d89662f1f0ea1c5c
+      internalID: -5876546427472156063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4459
+        width: 121
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9417e5be44d5a9caa3d16b6fb446e7
+      internalID: 7839056865930550896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_72
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3691
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ec8aafb2968ad999131586f9c479d
+      internalID: -4042216696279500912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_73
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4972
+        width: 87
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef7d341ab400cafaa31407e50d40489
+      internalID: -5577955824143556026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_74
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4075
+        width: 158
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ad776b5e926d9e915a3a59f71880c
+      internalID: -2235669165615884851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_75
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 5882
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f116a4010c873c08dc44b4e4c23fbc
+      internalID: -8514734198626824289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_76
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3165
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ba298310975c84906611e461b5d3b
+      internalID: 2102604359700854947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5099
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc8ef671d1f0f52a2c94d0e3c09031
+      internalID: 5733267268193641467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 5613
+        width: 234
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eed7ba3d0b977d13901e6e5c1f8d550
+      internalID: 4903746382155999699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_79
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3948
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c95991850517902c87775e053c3b97e
+      internalID: -1139410993026897548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_80
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 3564
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e678cafb9702430a38e718e2d7a3fb
+      internalID: 1450078300030296973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_81
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3038
+        width: 239
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4a582d32208f1ea1c69a6f9219260
+      internalID: 2157291578122810698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_82
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3437
+        width: 99
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b11dcf43f5e52e0ab6b1e369b38e07
+      internalID: 9200705285417117147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_83
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 6009
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10de7940855b024179e9781fabf3280c
+      internalID: 1075567860151230849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_84
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5499
+        width: 417
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d36cb7b1dcd5a61a593e7a8411d467
+      internalID: 4748683293648399655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_85
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 4972
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7b2c39095a98b6af9d63021904bd1
+      internalID: -5807159306849660204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_86
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 4459
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bbc0a7117f4301e9ccdcf7ca6ac82c
+      internalID: -1027420154400489034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_87
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4716
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43954dd88b7e7a65a1e4cb77319adcd
+      internalID: -5115542695016695741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_88
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3165
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b4fd2c0a2fc4b9b83e58ec6f5500e
+      internalID: -8692039905621742402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_89
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3691
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9b9c86c816b95a6b81f1cb66ecb267
+      internalID: -4106426761748581564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 6139
+        width: 603
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156e9035dba70ed2f9d0e7968a6ae014
+      internalID: -6115799746362350673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_91
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 6009
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbf92d5c37523370babdbae9aa72bed
+      internalID: 1887891756218329333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_92
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5882
+        width: 294
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed45cc38bfe3d2eaca15a2f7cfb776
+      internalID: -8891092647376563740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_93
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3564
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde91bd0a0e9987d98c6a1071fefa38c
+      internalID: 9018792302778302722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_94
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3948
+        width: 120
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45edcf94fa06e12d18023c17ef5911e6
+      internalID: -8110319535653384243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_95
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 3026
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618e0b1c793fa80efa60328807ccf7a6
+      internalID: -1547023335962814877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_96
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5099
+        width: 198
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17969cc2431386b98884ceb0989146f9
+      internalID: -9025214321761183779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_97
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5242
+        width: 239
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f96188f0460ab22790a97b40605e64f
+      internalID: 568629375873846838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_98
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 4972
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d14357057fc925ff96b0d375550bb5f
+      internalID: -3035124811835841072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_99
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 4075
+        width: 157
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfcb786fa7f293dc83c40524dbf8b80
+      internalID: 7764007420448419671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_100
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 4332
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a80ebfc4136afca0b879fc0291d63
+      internalID: -4973069780431302870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_101
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 6009
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265b3dcf26ec1f20becdd3153f7629a
+      internalID: -1866919978936790107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_102
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 3691
+        width: 106
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eebbeb25a4e5677a2ab0b84ebbe411
+      internalID: -4959123935861841075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_103
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4716
+        width: 114
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd35e07325ed64f39973a2287776564
+      internalID: -2533836456668013995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_104
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3564
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082f70f1eb848d48790d88db9ed90984
+      internalID: 4438243171509230958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 6009
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985f3286b8dd8fe2bacbf05d63c0cb91
+      internalID: 8012206843127669420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_106
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 5756
+        width: 115
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d344e63f1a8b68bafbafe2e3bded7d
+      internalID: -4885165338675543327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_107
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5626
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569fc3898a468cbdd9992302e41b4110
+      internalID: -2757157124659305478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_108
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3948
+        width: 119
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d79c9e778159e6e6b4c5a25da19f96f
+      internalID: -5119435199679615790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_109
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3165
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faf72c6b9bfee0c481141cb25dec06b
+      internalID: -1227046393460218660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_110
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2911
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197fa5ed147a225da7deae4715c91f9
+      internalID: -1746446676752202196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_111
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 4459
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1840e100ae5b600fb0f2483d9bb2296
+      internalID: -1314424021055295157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_112
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3282
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406b18a6aab75403590bfaf1e6e1d236
+      internalID: -4689164791423896811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_113
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3564
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995bb74079608ff15a037bd739f82667
+      internalID: 3150606590969901405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_114
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 4716
+        width: 251
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb2c6faf7c4f707d8c6d84b85371f6d
+      internalID: -1961450888506587134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_115
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 4075
+        width: 152
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbae08140008929e99f8ad40482e901
+      internalID: -3084472885170856464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_116
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6009
+        width: 86
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a3ad76d6196f2caa730524ea8e34c
+      internalID: -3636006182986678933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_117
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2911
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baa7f4aa57cf43c58713adfffbcafdc
+      internalID: 8864105616540590412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_118
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3165
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa7144db32098960bb277c827ca9c79
+      internalID: 6132232452362039897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_119
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 4459
+        width: 372
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2a0884e09e93962b1622c587cf2568
+      internalID: -4510763662275870296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_120
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 5756
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711288bc1f0df5d69930f322a1a8f933
+      internalID: -9157716090955144811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_121
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3948
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59599bc720eda25bbe320f1b0632f3
+      internalID: -8191372728687224281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_122
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3564
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10fc0a20cadb10f5bbf88f1dd63a8b3
+      internalID: -546868679521681766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_123
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 5242
+        width: 124
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5bb46786ca8a85b97a3a00c4545fa6
+      internalID: 7126711573063650560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_124
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 6009
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c831476ceeec5e910a614a93f5718
+      internalID: 3995536403802653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_125
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3038
+        width: 112
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39624d60aff727d2bbfe70c324220c21
+      internalID: 6644971466685641306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_126
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 3149
+        width: 68
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e7785b2da44bb08a00bc80181ea0b1
+      internalID: 2555272144619391363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_127
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4075
+        width: 297
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11252f597a879bc3893f52c64711f602
+      internalID: -7987783658259533061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_128
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3948
+        width: 223
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdaa0724b59180df850b7395a247cbc
+      internalID: -2989424934159041336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_129
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 3564
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25102d9b9ef02256fbd2a3e2730991fd
+      internalID: -8112398361789422393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_130
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3038
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c8e6f466c0c386b05c6c746fe7ef6
+      internalID: -4414161559786713701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_131
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 4716
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f06fafd28e69da5f8e6c2441e530e41
+      internalID: -120392949505511687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_132
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3038
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0475ce0b1a290d1228adda60b48a7f31
+      internalID: -8837330494430304927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_133
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 4075
+        width: 99
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ba371c73c63946da5d48c06019f92a
+      internalID: -7917430477048136389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2896
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc419eef2fd24e10e9db3eb258e0aa57
+      internalID: 4726206047728342258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2911
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b3353cda518f3e18d47c5dadfac30f
+      internalID: -3835678429504554258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2911
+        width: 223
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2549eaa3a87f99849589d66a64be837
+      internalID: -6576145694662171059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_137
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2911
+        width: 106
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4ea396b76681e7bfaddb424f66fd4
+      internalID: -7714936315248538975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_138
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2781
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff1ccaa4688ae7fbe3ea8d716dcd62
+      internalID: -8962416509834861365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_139
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2781
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81983458c25d3efb9ab5516129b59b6d
+      internalID: -6856205693761212245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_140
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2781
+        width: 926
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4130b2f4865f0ceea8730b2558399ce4
+      internalID: -8914149923556225889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_141
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2763
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0de95b0fdf60bba2a0b363a047e16
+      internalID: 3696113058674240021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ac6057aeb53e90b0f47875854dc32
+      internalID: -2588010907429311508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_143
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2642
+        width: 192
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4895b619bcd645219f5e6af4bcc6c3b
+      internalID: -8880651564028570203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_144
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2654
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a654b0906e3fbba17b1b5a29bfc63871
+      internalID: 2110411112911897085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_145
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2527
+        width: 186
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b50f44fc4b1118393808e3c04d8623
+      internalID: -7144726419807477318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_146
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2642
+        width: 69
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20584fd576e38f29ff892c93b9426b
+      internalID: -8849958912862157231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_147
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2640
+        width: 70
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c6b6a6edae4616f8fe70465ad4866f
+      internalID: -850985168353321352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_148
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2512
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3057c36e04218f94f20adf1f83be6
+      internalID: -2066050623295160757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2527
+        width: 74
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d677582da231a98a898ac44bfd33f6b
+      internalID: 520694219617922004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_150
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2527
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c218526564535a3a907a5b986e49a9
+      internalID: 7169906772592865670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_151
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2527
+        width: 90
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b956b5075159bd9fb2343cb7bfa90
+      internalID: 8067944043597197564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_152
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2527
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cae027c1434d14ca1afb0e098f9d49
+      internalID: 2751201439882190141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_153
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2527
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b111b39603a5237f88dc8e66f0bac53
+      internalID: 8588637532739082345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_154
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2527
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5dee2e60fe8070941cc87ff651e81
+      internalID: -3993261208639262915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_155
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2527
+        width: 71
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa019c52dc8b9b55af7fe3490f8ba15
+      internalID: -5342645645110613443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_156
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 2262
+        width: 409
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb3bb5819ac1c20bbb8fea382891373
+      internalID: 6980191113084724842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_157
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2385
+        width: 318
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51890b6feb509765b6b461292a9f2a9
+      internalID: -8625544338712894406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_158
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2397
+        width: 216
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853eb0db53891a85a8e567c5fb97e6ab
+      internalID: -4574313938811733614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_159
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2397
+        width: 543
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c5d985f9709ac0e8887c2e8a6bdab2
+      internalID: 1842252341453223720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2255
+        width: 125
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed6699c07a7bddc85c8e30fab26b54
+      internalID: -2897386864601340374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_161
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2270
+        width: 222
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7896d8aed1c326a88bc43efc87decfb3
+      internalID: -9117179730777585082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2116
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7cbabf4b35a12f8330f4f4479bb82
+      internalID: 7488907035447771015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2128
+        width: 68
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a08817d483ff976b016ec09d7a318f
+      internalID: 2098783491268110541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_164
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2128
+        width: 158
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129e9f9c30d94494db75b15782b13501
+      internalID: -787609053196917721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_165
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2128
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e845e618b3642b7e917924d8aabb2c5
+      internalID: -985921278806774619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_166
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2116
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b45b06a9dd4d83f98f8e7a0f8e716a
+      internalID: 6754452855517340477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_167
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2116
+        width: 359
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656e43c674ed292fa8ae8521990d11b0
+      internalID: 8522217594074296269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_168
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1989
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf18cd0c14f18d4aaabb7017b883714f
+      internalID: 6940134932166819016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_169
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2001
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baca0e0d1e386a4b4b0a438f95c0aa5b
+      internalID: -2347442982457501514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_170
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2001
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb6af066c553c0eaa87fadb24362885
+      internalID: 8711326114676058506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_171
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 2001
+        width: 201
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c369be3c9210111af6ba7d56e987c9
+      internalID: -2141039724090462822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_172
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2001
+        width: 98
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4575456cc61330edaab995252fcaa8a0
+      internalID: 694477433609479933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_173
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2001
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004b00e6df06f49a5bc3357315be1e86
+      internalID: -2167607662409616037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_174
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2001
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fa2309e230b1debc0eaf79fbd2781
+      internalID: 6865126658310195119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_175
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 2001
+        width: 118
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5b9c443b0cec1bab3c2314e78f0d9
+      internalID: -2752752742167906800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1859
+        width: 219
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e890bfb0e661237708c87b5057b1664e
+      internalID: 561703690021828399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_177
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1871
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c20736e82460d6ad6e09610e676db
+      internalID: 5077096805886546980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_178
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1871
+        width: 300
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a8c0c9562aedd65a395a776fce431f
+      internalID: -4624896623564384631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_179
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1859
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f0990d42b5c19ba520aac55335ac9
+      internalID: 952583568671161361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_180
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1871
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206f1211ffe4fea9ba02b56182a830d
+      internalID: -1708127033770947980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_181
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1859
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeefc934450d4036b42d55c6fab460d
+      internalID: 4497501247419396772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_182
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1871
+        width: 132
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeaa96951ef5aec3ad07f2e188a1b71
+      internalID: -4697550300094270616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_183
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1871
+        width: 176
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643dd14568ad9a5b5874d6fe9cf02057
+      internalID: 4135967973997221141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_184
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1871
+        width: 217
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc56f3fc74be9b43ab7d961b91af074d
+      internalID: -6741938428736266907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_185
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1732
+        width: 223
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f550e0c8dd4b14980664e3b68597b
+      internalID: 8216384700113687301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_186
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1744
+        width: 120
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136d28f60f23dd8080b12959850a924
+      internalID: -7945510849317636778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_187
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1744
+        width: 304
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738c31d44d2385c48426719eadc2530
+      internalID: -690516156632565281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_188
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1744
+        width: 104
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9b0463c6b557ae2a6110ac13d8baf5
+      internalID: -8703558383657194319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1602
+        width: 75
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d71c6d2049fc2691f98ee33b284de
+      internalID: -3336249598246502675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_190
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1617
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7efa4f36992459dba472f875b9df44d
+      internalID: -1397863251104640714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_191
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1617
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8645e9cb4f2cef4cca5a64f20435e658
+      internalID: 5124909781651740335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_192
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1617
+        width: 130
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a6d1bc468f6c9f5bf41b3e094f2b41
+      internalID: -1103899888949222854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_193
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1617
+        width: 142
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d5bd43256801af280b7b39090c2201
+      internalID: -5548048591803914629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_194
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1617
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170cfeff8c20a089bba9beae38d998a
+      internalID: -8603022253176962485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_195
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1617
+        width: 133
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea346bd88260737bda58451b7dbb23
+      internalID: 2191012310299229068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_196
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1617
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628b7299fc9a36f918346f6e1360c1a0
+      internalID: 5862533059713360342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_197
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1617
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd96e5ea90081fc2d902b487b6c8c829
+      internalID: 5770565428204447250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_198
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1479
+        width: 159
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6701cfc657209f61bfacfe41dd95e8b
+      internalID: -3368611313460880352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 215
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf08df77ed3c91928986ba30d0992ea
+      internalID: -6244308426035178324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_200
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1487
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c0311be0b3316699d14fee3b7c0d0
+      internalID: -1697197556107719770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_201
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1487
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07da8a9e5892c669b47aa789ba3119e
+      internalID: -361357070684464120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_202
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1487
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022afe52baecd975d9574438e3350e3e
+      internalID: 4108179174095357399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_203
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1487
+        width: 675
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3164bb59a7712079b0b52a185c3c34
+      internalID: -4488706908900542424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_204
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1487
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260098cf7e0ae176a2b19b089193265
+      internalID: -1769797088901762233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_205
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1326
+        width: 155
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6ace1070027f3ab180f9bd486513f
+      internalID: 380354187544579216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_206
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1326
+        width: 89
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b3febd475d211389fdec235ba2e47
+      internalID: 4600986784878779676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_207
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1326
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50479b75086d55c28a3173f6ee59eee0
+      internalID: 2026940131033153383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_208
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1326
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61db629174f8001b890377cea5b84db
+      internalID: 7211513858479570250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_209
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1326
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c4617dca189624867ef9705953e18
+      internalID: -8515133707293712644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_210
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1326
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219fc6d547b7603b99a3aab6ce41112
+      internalID: 2225652219569251979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_211
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1193
+        width: 146
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458dfb8be6dd26848c516120d14daa8
+      internalID: -5898906602049075655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_212
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1193
+        width: 308
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e327d1de8fb7f650da487ce24a3e48ec
+      internalID: -3567012669638030974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_213
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1193
+        width: 102
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4fe08ca86e0c6b398f634a236b64d4
+      internalID: -8420171343197442888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_214
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1193
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3a152f09ff413418767f05b4cb8782
+      internalID: -392305660445518342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_215
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1193
+        width: 105
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13469475739f543b1bd436852d83415b
+      internalID: -2083583293308033057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_216
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1193
+        width: 201
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daaa069a7f270753da9ba37707dccf36
+      internalID: 3959564588911671381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_217
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1193
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066356fc1b204397ba9236bdaf8e17e5
+      internalID: 1715470271614618657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_218
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1193
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630148b15fb9b16cbce553a416f2b27
+      internalID: -7215756820800965252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_219
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 1193
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331b852ce1dd7be68bceb826b64bc678
+      internalID: -7566034884924354521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_220
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1193
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c5ab088be35305aa0f0ed61deddcf8
+      internalID: 888819274308139762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_221
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1193
+        width: 135
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d21cdd6f808f423abc5fe4a7faf2fa
+      internalID: -1125079280028809090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1172
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe725b7ed6790f9f8a154f722e33cda
+      internalID: 3482950201441833587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_223
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1051
+        width: 195
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec02e85472115e196b2f126ce76f7a27
+      internalID: -1429344811352111534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_224
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1051
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02b16497d6ecff4b483b63ad09aeb7
+      internalID: -7573241548202941215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_225
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1051
+        width: 107
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3910b64e2cd12486a94a872cf409b3de
+      internalID: 1340489945887685627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_226
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1051
+        width: 149
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e370e15118d4392995ff6e23b1a7ef1
+      internalID: 1901856047066548877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_227
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 729
+        width: 236
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebacd463311b2c487f1239a6639e1b
+      internalID: 5935364546179631841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_228
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1051
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ddc9abfc4fa3ed9a1eaf74292c078
+      internalID: -5918362668497308888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_229
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1054
+        width: 105
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0490458855c9d299c2b6d96f91103
+      internalID: -5143416838601124182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_230
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1052
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56a200daadc0f32f9e6e4368cf581fd
+      internalID: -4443561597759620804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_231
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1051
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a2dea104925dfb3b69bffab1a7002b
+      internalID: 7047653340706720368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_232
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1051
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aafc1cb540647de8a5f74a8bc3e151
+      internalID: 4963795510438784376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_233
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1051
+        width: 148
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35d39a24efebe41b67b401c737454f
+      internalID: 2899612741747603404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_234
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1020
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c85b7bd08304e0a8d31f54b5969621
+      internalID: 1051810755941096994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_235
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 899
+        width: 415
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57885a90c195a260ebd2ffacb06a5839
+      internalID: 3074109275966405468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_236
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 899
+        width: 55
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227646b34f30f2eebc6151d1ad3a5f6
+      internalID: 3049555389320979442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_237
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 899
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665e80ae345d1698d8a6903d872f00d6
+      internalID: 2810737249728108590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_238
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 899
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b690e80c4f712c74380470fd92afef5b
+      internalID: 766010206823763390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_239
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 899
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87b850e52b1a25193e747b2a86a25f
+      internalID: -5596331861796119267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_240
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 899
+        width: 502
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b02a3ba8c44654f8b8678c72b07e4ad
+      internalID: 367778517998477205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_241
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 420
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fceb00ad3c8d36eaa8fab1afc7c8d80
+      internalID: 7545197424069387423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_242
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 741
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846cb47f8f0ed1df998241b8b406c354
+      internalID: -4815212538093478794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_243
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 741
+        width: 108
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2279cece760b4eef2891894d2e500027
+      internalID: 6386988113416817863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_244
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 741
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709dddaf3b921612494752537c848774
+      internalID: -8495921902403242782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 599
+        width: 60
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4b97353a32d7b7c8972e5678b3950e
+      internalID: -5872179629869621336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_246
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 491
+        width: 253
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c381e7dd86aece59242ba9707de13b
+      internalID: -3554648065426290714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_247
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 599
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee13d5c083c1e43bea442ebbafa110ef
+      internalID: 7750383086252927152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_248
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 599
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596963b1716ea58d6880231705a12178
+      internalID: -2478242844859436384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_249
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 599
+        width: 89
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bf3827578a57228bcbc6c1d98c11d
+      internalID: -302292336183907820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_250
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 525
+        width: 246
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5926644057d35d7f69d68df6db33fba5
+      internalID: 3176234878849668709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_251
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 580
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0aadd6ee60ab3329962af9043832c3
+      internalID: 3530915033135526619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_252
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 484
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97354448968ba2767a1aa4bed06035bc
+      internalID: -5414804301684128672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_253
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 484
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b5a2d69bf41ff59ba9801eb3b8832b
+      internalID: -7931150627570884015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_254
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 484
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8811fd8a0208a854b086ddf6eda1cb8
+      internalID: -5036607082625619570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_255
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 559
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c1fe8ada3156948fdfcfd687f7e95
+      internalID: -2464079504932665224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_256
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 485
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c62c1954d044864fb08217ec500f218
+      internalID: 2385193455678483646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_257
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 485
+        width: 31
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42db933a14b5d5f872d3e24ffe9e7d
+      internalID: 2358312571189949065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_258
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 485
+        width: 28
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8941a7038640708d9806b74019d8bfd
+      internalID: 502624996763219598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_259
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 485
+        width: 28
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0852ddde0e10d3a00d1729cd247e3
+      internalID: -4092152596471704084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_260
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 525
+        width: 167
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165c4c28add40c039ad5d3c58db05c5
+      internalID: 812937148109870667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_261
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 525
+        width: 170
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc2e21afab1283fa8fb45565bde2c8
+      internalID: -6079197455482569153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reimu2_262
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1481
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4181ca881959f6db39e89e7b39707ed4
+      internalID: -6197955179375726718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7afbf8d94508da03e8da5a2825811650
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      reimu2_235: 3074109275966405468
+      reimu2_10: 559338363777157176
+      reimu2_68: 8242285270197990563
+      reimu2_156: 6980191113084724842
+      reimu2_13: -2507901367950504115
+      reimu2_255: -2464079504932665224
+      reimu2_244: -8495921902403242782
+      reimu2_139: -6856205693761212245
+      reimu2_200: -1697197556107719770
+      reimu2_218: -7215756820800965252
+      reimu2_48: 2544142331906214556
+      reimu2_72: -4042216696279500912
+      reimu2_209: -8515133707293712644
+      reimu2_158: -4574313938811733614
+      reimu2_108: -5119435199679615790
+      reimu2_134: 4726206047728342258
+      reimu2_31: 1194083204897704631
+      reimu2_7: -624936254025580703
+      reimu2_57: -1298913071068195188
+      reimu2_103: -2533836456668013995
+      reimu2_190: -1397863251104640714
+      reimu2_41: 4417937107626381872
+      reimu2_101: -1866919978936790107
+      reimu2_40: -331665223553395446
+      reimu2_121: -8191372728687224281
+      reimu2_97: 568629375873846838
+      reimu2_88: -8692039905621742402
+      reimu2_159: 1842252341453223720
+      reimu2_73: -5577955824143556026
+      reimu2_237: 2810737249728108590
+      reimu2_4: 4176079051097014242
+      reimu2_95: -1547023335962814877
+      reimu2_216: 3959564588911671381
+      reimu2_59: -2720668440917145792
+      reimu2_15: 3849136226741167041
+      reimu2_64: 2363368987956678233
+      reimu2_177: 5077096805886546980
+      reimu2_162: 7488907035447771015
+      reimu2_93: 9018792302778302722
+      reimu2_184: -6741938428736266907
+      reimu2_34: -5913368970815480420
+      reimu2_256: 2385193455678483646
+      reimu2_9: -6797497902500356610
+      reimu2_127: -7987783658259533061
+      reimu2_208: 7211513858479570250
+      reimu2_246: -3554648065426290714
+      reimu2_0: 8971039109587798508
+      reimu2_176: 561703690021828399
+      reimu2_87: -5115542695016695741
+      reimu2_111: -1314424021055295157
+      reimu2_247: 7750383086252927152
+      reimu2_5: 5606576861137952056
+      reimu2_163: 2098783491268110541
+      reimu2_22: -3410521815416328334
+      reimu2_173: -2167607662409616037
+      reimu2_75: -8514734198626824289
+      reimu2_227: 5935364546179631841
+      reimu2_172: 694477433609479933
+      reimu2_112: -4689164791423896811
+      reimu2_228: -5918362668497308888
+      reimu2_238: 766010206823763390
+      reimu2_252: -5414804301684128672
+      reimu2_80: 1450078300030296973
+      reimu2_221: -1125079280028809090
+      reimu2_26: -7844992933831047559
+      reimu2_66: -1374829745361451009
+      reimu2_118: 6132232452362039897
+      reimu2_204: -1769797088901762233
+      reimu2_259: -4092152596471704084
+      reimu2_223: -1429344811352111534
+      reimu2_55: 4730312799902723141
+      reimu2_49: -1553997044490308877
+      reimu2_32: 1267832041128142510
+      reimu2_43: -5113708040290821532
+      reimu2_84: 4748683293648399655
+      reimu2_114: -1961450888506587134
+      reimu2_194: -8603022253176962485
+      reimu2_42: -2173524500888303837
+      reimu2_153: 8588637532739082345
+      reimu2_3: 1823393862332875455
+      reimu2_33: 6329303145342713125
+      reimu2_150: 7169906772592865670
+      reimu2_124: 3995536403802653169
+      reimu2_135: -3835678429504554258
+      reimu2_86: -1027420154400489034
+      reimu2_27: 5009183466138201702
+      reimu2_91: 1887891756218329333
+      reimu2_99: 7764007420448419671
+      reimu2_171: -2141039724090462822
+      reimu2_92: -8891092647376563740
+      reimu2_116: -3636006182986678933
+      reimu2_117: 8864105616540590412
+      reimu2_137: -7714936315248538975
+      reimu2_217: 1715470271614618657
+      reimu2_249: -302292336183907820
+      reimu2_130: -4414161559786713701
+      reimu2_19: 2492053906909351578
+      reimu2_60: 8822050056208618188
+      reimu2_122: -546868679521681766
+      reimu2_196: 5862533059713360342
+      reimu2_160: -2897386864601340374
+      reimu2_226: 1901856047066548877
+      reimu2_170: 8711326114676058506
+      reimu2_120: -9157716090955144811
+      reimu2_233: 2899612741747603404
+      reimu2_198: -3368611313460880352
+      reimu2_207: 2026940131033153383
+      reimu2_37: 4437315303411144201
+      reimu2_78: 4903746382155999699
+      reimu2_132: -8837330494430304927
+      reimu2_188: -8703558383657194319
+      reimu2_205: 380354187544579216
+      reimu2_53: -315958277513785510
+      reimu2_181: 4497501247419396772
+      reimu2_186: -7945510849317636778
+      reimu2_123: 7126711573063650560
+      reimu2_179: 952583568671161361
+      reimu2_11: -258731891213509119
+      reimu2_18: -822312729689029798
+      reimu2_36: -4890900369752895219
+      reimu2_166: 6754452855517340477
+      reimu2_253: -7931150627570884015
+      reimu2_100: -4973069780431302870
+      reimu2_191: 5124909781651740335
+      reimu2_67: 4463273615636044733
+      reimu2_96: -9025214321761183779
+      reimu2_261: -6079197455482569153
+      reimu2_1: -2067244608522060008
+      reimu2_39: 2988836261749491337
+      reimu2_79: -1139410993026897548
+      reimu2_192: -1103899888949222854
+      reimu2_239: -5596331861796119267
+      reimu2_70: -5876546427472156063
+      reimu2_229: -5143416838601124182
+      reimu2_236: 3049555389320979442
+      reimu2_260: 812937148109870667
+      reimu2_58: -1102772984474596868
+      reimu2_169: -2347442982457501514
+      reimu2_51: 7544408706931536398
+      reimu2_193: -5548048591803914629
+      reimu2_222: 3482950201441833587
+      reimu2_206: 4600986784878779676
+      reimu2_210: 2225652219569251979
+      reimu2_119: -4510763662275870296
+      reimu2_178: -4624896623564384631
+      reimu2_8: -2167649093379717319
+      reimu2_213: -8420171343197442888
+      reimu2_149: 520694219617922004
+      reimu2_155: -5342645645110613443
+      reimu2_167: 8522217594074296269
+      reimu2_69: -2618003379570639310
+      reimu2_65: -1131272457953641344
+      reimu2_90: -6115799746362350673
+      reimu2_157: -8625544338712894406
+      reimu2_46: 903939525917739346
+      reimu2_197: 5770565428204447250
+      reimu2_30: -4680698389581131555
+      reimu2_168: 6940134932166819016
+      reimu2_240: 367778517998477205
+      reimu2_38: 8721921123624042761
+      reimu2_142: -2588010907429311508
+      reimu2_105: 8012206843127669420
+      reimu2_248: -2478242844859436384
+      reimu2_12: -8188175049574844425
+      reimu2_250: 3176234878849668709
+      reimu2_254: -5036607082625619570
+      reimu2_144: 2110411112911897085
+      reimu2_187: -690516156632565281
+      reimu2_104: 4438243171509230958
+      reimu2_25: -5841002817027355389
+      reimu2_136: -6576145694662171059
+      reimu2_232: 4963795510438784376
+      reimu2_258: 502624996763219598
+      reimu2_143: -8880651564028570203
+      reimu2_241: 7545197424069387423
+      reimu2_113: 3150606590969901405
+      reimu2_164: -787609053196917721
+      reimu2_94: -8110319535653384243
+      reimu2_185: 8216384700113687301
+      reimu2_85: -5807159306849660204
+      reimu2_199: -6244308426035178324
+      reimu2_71: 7839056865930550896
+      reimu2_151: 8067944043597197564
+      reimu2_183: 4135967973997221141
+      reimu2_152: 2751201439882190141
+      reimu2_257: 2358312571189949065
+      reimu2_56: -6992627802491588566
+      reimu2_146: -8849958912862157231
+      reimu2_61: 5226883861726827733
+      reimu2_47: 1970198132277107083
+      reimu2_148: -2066050623295160757
+      reimu2_225: 1340489945887685627
+      reimu2_106: -4885165338675543327
+      reimu2_243: 6386988113416817863
+      reimu2_141: 3696113058674240021
+      reimu2_231: 7047653340706720368
+      reimu2_224: -7573241548202941215
+      reimu2_115: -3084472885170856464
+      reimu2_77: 5733267268193641467
+      reimu2_154: -3993261208639262915
+      reimu2_14: 6478222103522289104
+      reimu2_28: 7036044566760413901
+      reimu2_44: 1663546702546375258
+      reimu2_129: -8112398361789422393
+      reimu2_145: -7144726419807477318
+      reimu2_110: -1746446676752202196
+      reimu2_107: -2757157124659305478
+      reimu2_131: -120392949505511687
+      reimu2_50: 7609140267827474255
+      reimu2_219: -7566034884924354521
+      reimu2_102: -4959123935861841075
+      reimu2_242: -4815212538093478794
+      reimu2_147: -850985168353321352
+      reimu2_220: 888819274308139762
+      reimu2_6: -2650779008201047468
+      reimu2_17: -312978424932555802
+      reimu2_262: -6197955179375726718
+      reimu2_21: 8645486582595229237
+      reimu2_52: 1328830267521605637
+      reimu2_140: -8914149923556225889
+      reimu2_89: -4106426761748581564
+      reimu2_76: 2102604359700854947
+      reimu2_212: -3567012669638030974
+      reimu2_182: -4697550300094270616
+      reimu2_16: -4585927166527927998
+      reimu2_82: 9200705285417117147
+      reimu2_165: -985921278806774619
+      reimu2_189: -3336249598246502675
+      reimu2_98: -3035124811835841072
+      reimu2_20: 1193951476312067739
+      reimu2_45: -2039390050112857544
+      reimu2_230: -4443561597759620804
+      reimu2_125: 6644971466685641306
+      reimu2_35: 6597031908265171274
+      reimu2_54: -5974283859177602322
+      reimu2_128: -2989424934159041336
+      reimu2_174: 6865126658310195119
+      reimu2_2: 4206196264620176279
+      reimu2_83: 1075567860151230849
+      reimu2_24: -1182820084969733689
+      reimu2_63: 890273036603641964
+      reimu2_214: -392305660445518342
+      reimu2_74: -2235669165615884851
+      reimu2_234: 1051810755941096994
+      reimu2_138: -8962416509834861365
+      reimu2_195: 2191012310299229068
+      reimu2_62: 4284111454574148565
+      reimu2_245: -5872179629869621336
+      reimu2_180: -1708127033770947980
+      reimu2_202: 4108179174095357399
+      reimu2_211: -5898906602049075655
+      reimu2_29: 3302958456401798874
+      reimu2_175: -2752752742167906800
+      reimu2_201: -361357070684464120
+      reimu2_215: -2083583293308033057
+      reimu2_161: -9117179730777585082
+      reimu2_109: -1227046393460218660
+      reimu2_81: 2157291578122810698
+      reimu2_126: 2555272144619391363
+      reimu2_251: 3530915033135526619
+      reimu2_23: -1524610955517792115
+      reimu2_133: -7917430477048136389
+      reimu2_203: -4488706908900542424
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

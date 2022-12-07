@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a8f23c10f864ad41a27d44a41dec904, type: 3}
+  m_Name: dias nublados
+  m_EditorClassIdentifier: 
+  messages:
+  - {fileID: 11400000, guid: 47c4ff1585bdd044b91541eb72072e1e, type: 2}
+  - {fileID: 11400000, guid: 33997f6b626e78f4e8b978b563c30781, type: 2}
+  - {fileID: 11400000, guid: 29b04d7bc23da2d48bf3bd5408658854, type: 2}
+  - {fileID: 11400000, guid: 38b36960c33e20f489db8de37d9da19e, type: 2}
+  - {fileID: 11400000, guid: e3136e456c84e584994c5cce2b150a6b, type: 2}
+  - {fileID: 11400000, guid: b1366eafb671d6841b332b2b16cfd055, type: 2}
+  - {fileID: 11400000, guid: 734eb29621afced4da05283ede8e68c7, type: 2}
+  - {fileID: 11400000, guid: a041a8764a23afc47b273d20f8331ce6, type: 2}
+  - {fileID: 11400000, guid: f70269e17af02e1458a3544ead6a73ff, type: 2}
+  - {fileID: 11400000, guid: b02e788b3d06e40478e1ff6a162e8cdb, type: 2}

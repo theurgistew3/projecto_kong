@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6752699357713738258
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6890352450911541519}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb201ab0a62d3ebada2b416844ad545a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  debug_mode: 0
+  pool: {fileID: 0}
+  owner: {fileID: 0}
+  stat: {fileID: 11400000, guid: eed435bb1757eaaca9b5fab057e3db4f, type: 2}
+  ammo: {fileID: 11400000, guid: 0f9f40cb3a84471e682132e210c68590, type: 2}
+  position_of_shot: {fileID: 0}
+  auto_aim_target:
+    use_constant: 1
+    constant_value: {fileID: 0}
+    variable: {fileID: 0}
+  auto_aim_type: 1
+  move_with_shots: 1
+  steps: 100
+  period: 0
+  radius_x: 1
+  radius_z: 1
+--- !u!1001 &5616146684230600552
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1328558228578934375, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_Name
+      value: sunflower_orbital_gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1328558228578934373, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1328558228578934374, guid: 28a734269a83fcc4a84fc4ad132cfdfc, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 28a734269a83fcc4a84fc4ad132cfdfc, type: 3}
+--- !u!1 &6890352450911541519 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1328558228578934375, guid: 28a734269a83fcc4a84fc4ad132cfdfc,
+    type: 3}
+  m_PrefabInstance: {fileID: 5616146684230600552}
+  m_PrefabAsset: {fileID: 0}

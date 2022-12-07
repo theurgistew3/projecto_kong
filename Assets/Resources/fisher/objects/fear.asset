@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81c8c7048cf87804e98a1e5bb5c9e14b, type: 3}
+  m_Name: fear
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300076, guid: 24a8582ceef60e94589b1649e0955f52, type: 3}
+  description: item que le tienen miedo los peces
+  prefab: {fileID: 4894915183265259400, guid: 0f082e0a2cc52d34286df89c40a9c03c, type: 3}
+  max_stack_amount: 1

@@ -1,0 +1,33 @@
+{
+    "name": "tactic",
+    "maps": [
+        {
+            "name": "player",
+            "id": "7b98f2ea-dbe9-42de-8e9c-60e7d8d15dd7",
+            "actions": [
+                {
+                    "name": "left_click",
+                    "type": "Button",
+                    "id": "45f94c95-4105-4654-a922-7fed627a0d13",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "f3ecf451-2145-4898-9b9f-4c9b8a267caf",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "left_click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
