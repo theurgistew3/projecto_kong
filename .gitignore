@@ -64,3 +64,5 @@ Packages/*/
 *.log
 Logs/shadercompiler-AssetImportWorker0.log
 Logs/AssetImportWorker0.log
+Packages/packages-lock.json
+
