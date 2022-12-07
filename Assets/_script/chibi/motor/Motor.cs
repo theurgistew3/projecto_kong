@@ -21,6 +21,7 @@ namespace chibi.motor
 		public Chibi_collision_manager manager_collision;
 
 		// protected Rigidbody ridgetbody;
+		[SerializeField]
 		protected float _gravity = -9.8f;
 		protected Vector3 _velocity;
 
