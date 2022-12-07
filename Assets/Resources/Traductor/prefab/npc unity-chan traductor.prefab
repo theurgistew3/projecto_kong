@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8481076727713286634
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3260848276371218581, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_TranslationOffsets.Array.data[0].y
+      value: 0.07585752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3260848276371218581, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_TranslationOffsets.Array.data[0].z
+      value: 0.098937966
+      objectReference: {fileID: 0}
+    - target: {fileID: 3260848277689777516, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_TranslationOffsets.Array.data[0].y
+      value: 0.07585752
+      objectReference: {fileID: 0}
+    - target: {fileID: 3260848277689777516, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_TranslationOffsets.Array.data[0].z
+      value: 0.098937966
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705234, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_Name
+      value: npc unity-chan traductor
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705245, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: _gravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6125020137342705246, guid: b879798072eb2094f896b1edb5d452c1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: b879798072eb2094f896b1edb5d452c1, type: 3}
