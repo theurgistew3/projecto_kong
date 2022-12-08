@@ -14,16 +14,21 @@ namespace traductor.editor.board
 		static public void bake()
 		{
 			string alfabeto = "Assets/Resources/Traductor/Animaciones/Alfabeto";
+			string idle = "Assets/Resources/Traductor/Animaciones/idle.anim";
 
 			var controller = UnityEditor.Animations.AnimatorController.CreateAnimatorControllerAtPath(
 				"Assets/Resources/Traductor/animations/cosa.controller" );
 			controller.AddParameter( "letra", AnimatorControllerParameterType.Int );
 			var root_state_machine = controller.layers[ 0 ].stateMachine;
-			Debug.Log( root_state_machine );
-			var state = root_state_machine.AddState( "idle" );
+			var state = root_state_machine.AddState( "idle", Vector3.zero );
+			//root_state_machine.
 
 
 			var states = new Dictionary<string, UnityEditor.Animations.AnimatorState>();
+			var idle_state = state;
+
+			var motion = load_animation( idle );
+			idle_state.motion = motion;
 
 
 			DirectoryInfo path = new DirectoryInfo( alfabeto );
@@ -35,60 +40,64 @@ namespace traductor.editor.board
 				return;
 			}
 
-			foreach ( var file in path.GetFiles() )
+			foreach ( var file in path.GetFiles( "*.anim" ) )
 			{
-				if ( file.Extension == ".anim" )
+				string name = Path.GetFileNameWithoutExtension( file.Name );
+				state = root_state_machine.AddState( name );
+
+				motion = load_animation( file );
+				state.motion = motion;
+
+				states.Add( name, state );
+			}
+
+			var keys = new List<string>( states.Keys );
+			for ( int i = 0; i < keys.Count; i++ )
+			{
+
+				var current_key = keys[ i ];
+				var current_state = states[ keys[i] ];
+
+				idle_transition( idle_state, current_state, i + 1 );
+
+				for ( int j = 0; j < keys.Count; j++ )
 				{
-					string name = Path.GetFileNameWithoutExtension( file.Name );
-					state = root_state_machine.AddState( name );
-					var full_path = file.FullName.Replace( @"\", "/" );
-					var relative_path = full_path.Replace( Application.dataPath, "" );
-					string asset_path = "Assets" + relative_path;
-					var motion = AssetDatabase.LoadAssetAtPath<Motion>( asset_path );
-					state.motion = motion;
+					var inner_key = keys[ j ];
+					//inner_key = "b";
+					//int id_animation = funcion_magica( inner_key );
+					int id_animation = j + 1;
+					if ( inner_key == current_key )
+						continue;
 
-					states.Add( name, state );
+					var inner_state = states[ keys[j] ];
+					var transition = current_state.AddTransition( inner_state, true );
+					transition.AddCondition( UnityEditor.Animations.AnimatorConditionMode.Equals, id_animation, "letra" );
 				}
-				//Debug.Log( file.ToString() );
-			}
-
-			var keys = states.Keys;
-			for ( int i = 0; i < keys.Count, ++i )
-			{
-				state = states[ key ];
-				var transition = state.AddExitTransition();
-				transition.AddCondition( UnityEditor.Animations.AnimatorConditionMode.Equals, i + 1, "letra" );
-				return;
-			}
-		}
-
-		[MenuItem( "traductor/create_animator_2", false, 155 )]
-		static public void bake_2( MenuCommand context )
-		{
-			string path;
-			if ( Selection.assetGUIDs.Length == 0 )
-			{
-				Debug.Log( "Assets/pudrete" );
-			}
-			else
-			{
-				var a = AssetDatabase.GUIDToAssetPath( Selection.assetGUIDs[ 0 ] );
-				Debug.Log( a );
 			}
 		}
 
 
-		[ ContextMenu( "qqqqqqqq" ) ]
-		//[ CreateAssetMenu( menuName="aventure_time/dialogue/dialogue" ) ]
-		static public void bake_2()
+		static public void idle_transition( AnimatorState idle, AnimatorState current, int id_animation )
 		{
-			Debug.Log( "hello 2" );
+			var transition = idle.AddTransition( current, true );
+			transition.AddCondition( UnityEditor.Animations.AnimatorConditionMode.Equals, id_animation, "letra" );
+			transition = current.AddTransition( idle, true );
+			transition.AddCondition( UnityEditor.Animations.AnimatorConditionMode.Equals, 0, "letra" );
 		}
 
-		private void OnEnable()
+		static public Motion load_animation( FileInfo file )
 		{
-			//board = ( Board )target;
-			//board.extert_init_cache();
+			var full_path = file.FullName.Replace( @"\", "/" );
+			var relative_path = full_path.Replace( Application.dataPath, "" );
+			string asset_path = "Assets" + relative_path;
+
+			var motion = AssetDatabase.LoadAssetAtPath<Motion>( asset_path );
+			return motion;
+		}
+		static public Motion load_animation( string file )
+		{
+			var result = new FileInfo( file );
+			return load_animation( result );
 		}
 	}
 }
