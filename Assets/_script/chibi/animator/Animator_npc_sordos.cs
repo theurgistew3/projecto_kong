@@ -5,6 +5,7 @@ namespace chibi.animator
 	public class Animator_npc_sordos : Animator_base
 	{
 		public int letra = 0;
+		public chibi.pomodoro.Pomodoro_obj pomodoro;
 		public float speed
 		{
 			get{
@@ -31,6 +32,11 @@ namespace chibi.animator
 
 		protected virtual void FixedUpdate()
 		{
+			if ( pomodoro.tick() )
+			{
+				letra++;
+				pomodoro.reset();
+			}
 			animator.SetInteger( "letra", letra );
 		}
 	}
