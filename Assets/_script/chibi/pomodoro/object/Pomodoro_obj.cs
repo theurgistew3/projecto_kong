@@ -25,7 +25,15 @@ namespace chibi.pomodoro
 			}
 		}
 
-		public void reset()
+		public float normalize_time
+        {
+			get
+            {
+				return _sigma_frecuency * ( 1 / frecuency );
+            }
+        }
+
+        public void reset()
 		{
 			_sigma_frecuency = 0f;
 		}

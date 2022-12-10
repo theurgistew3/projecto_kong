@@ -15,7 +15,7 @@ public class autocomplete : MonoBehaviour
     IDbCommand command;
     IDataReader reader;
     string databasename = "Base_de_Datos.db";
-    string comando = "SELECT letra FROM Alfabeto";
+    string comando = "SELECT * FROM palabra";
 
     void Start()
     {
@@ -36,7 +36,7 @@ public class autocomplete : MonoBehaviour
 
     private void reader_funcion(Dropdown dropdown)
     {
-        string palabra;
+        List<string> palabras = new List<string>();
         using (connection = new SqliteConnection(dburl))
         {
             connection.Open();
@@ -45,8 +45,11 @@ public class autocomplete : MonoBehaviour
             reader = command.ExecuteReader();
             while(reader.Read())
             {
-                palabra = reader.GetString(0);
+                palabras.Add(reader.GetString(0));
 
+            }
+            foreach(var palabra in palabras)
+            {
                 dropdown.options.Add(new Dropdown.OptionData() { text = palabra });
             }
         }

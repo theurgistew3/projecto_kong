@@ -1,10 +1,9 @@
 using UnityEngine;
 
-namespace chibi.animator
+namespace traductor.animator
 {
-	public class Animator_npc_sordos : Animator_base
+	public class Animator_npc_sordos : chibi.animator.Animator_base
 	{
-		public int letra = 0;
 		public chibi.pomodoro.Pomodoro_obj pomodoro;
 		public float speed
 		{
@@ -18,26 +17,30 @@ namespace chibi.animator
 
 		public Vector3 direction
 		{
-			get {
-				var x = animator.GetFloat( "horizontal" );
-				var z = animator.GetFloat( "vertical" );
-				return new Vector3( x, 0, z );
+			get
+			{
+				var x = animator.GetFloat("horizontal");
+				var z = animator.GetFloat("vertical");
+				return new Vector3(x, 0, z);
 			}
-			set {
-				var dir = new Vector3( value.x, value.z, 0 );
-				animator.SetFloat( "horizontal", dir.x );
-				animator.SetFloat( "vertical", dir.y );
+			set
+			{
+				var dir = new Vector3(value.x, value.z, 0);
+				animator.SetFloat("horizontal", dir.x);
+				animator.SetFloat("vertical", dir.y);
 			}
 		}
 
-		protected virtual void FixedUpdate()
+		public int letra
 		{
-			if ( pomodoro.tick() )
+			get
 			{
-				letra++;
-				pomodoro.reset();
+				return animator.GetInteger("letra");
 			}
-			animator.SetInteger( "letra", letra );
+			set
+			{
+				animator.SetInteger("letra", value);
+			}
 		}
 	}
 }
