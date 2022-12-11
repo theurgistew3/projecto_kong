@@ -40,6 +40,8 @@ public class Reproducir : chibi.Chibi_behaviour
     IDataReader reader;
     string databasename = "Image_Data.db";
     string comando = "SELECT letra, idAnim FROM Alfabeto WHERE letra = 'A' or letra = 'B' or letra  = 'C' or letra = 'M' or letra = 'N' or letra = 'X' or letra = 'Y'";
+
+    public List<struct_animation> lista = new List<struct_animation>();
     //abcmnxyz
     //A y M
 
@@ -59,7 +61,7 @@ public class Reproducir : chibi.Chibi_behaviour
 
     }
 
-    List<struct_animation> lista = new List<struct_animation>();
+    
 
     protected override void _init_cache()
     {
@@ -75,7 +77,7 @@ public class Reproducir : chibi.Chibi_behaviour
 
         
 
-        reader_funcion();
+        //reader_funcion();
 
         
         timer = new chibi.pomodoro.Pomodoro_obj(5.0f);

@@ -5,29 +5,31 @@ using System.Collections.Generic;
 using System.Data;
 using Mono.Data.Sqlite;
 
-public class autocomplete : MonoBehaviour
+public class autocomplete : chibi.Chibi_behaviour
 {
 
     public Text text;
+    public Dropdown dropdown;
 
     string dburl;
     IDbConnection connection;
     IDbCommand command;
     IDataReader reader;
     string databasename = "Image_Data.db";
-    string comando = "SELECT * FROM palabra";
-    List<string> guardar = new List<string>();
-
-    void Start()
+    string comando = "SELECT * FROM palabra WHERE id < 29";
+    public List<struct_animation> guardar = new List<struct_animation>();
+    public List<struct_animation> palabras = new List<struct_animation>();
+    public List<string> dato = new List<string>();
+    protected override void _init_cache()
     {
+    
+        base._init_cache();
         guardar.Clear();
+        dato.Clear();
         string filepath = Application.dataPath + "/Resources/Traductor/Data_Base/" + databasename;
 
         dburl = "URI=file:" + filepath;
-        var dropdown = transform.GetComponent<Dropdown>();
-
         dropdown.options.Clear();
-        string palabra;
         Debug.Log("Conexion establecida" + dburl);
         connection = new SqliteConnection(dburl);
         connection.Open();
@@ -40,22 +42,35 @@ public class autocomplete : MonoBehaviour
 
     private void reader_funcion(Dropdown dropdown)
     {
-        List<string> palabras = new List<string>();
+        
+
         using (connection = new SqliteConnection(dburl))
         {
             connection.Open();
             command = connection.CreateCommand();
             command.CommandText = comando;
             reader = command.ExecuteReader();
-            while(reader.Read())
+            int n = 0;
+            int i = 51;
+            
+            struct_animation[] obj = new struct_animation[i];
+            while (reader.Read())
             {
-                palabras.Add(reader.GetString(0));
+                string palabra = reader.GetString(0);
+                int id = reader.GetInt32(1);
+                obj[n] = new struct_animation(palabra, id);
+                palabras.Add(obj[n]);
+                n++;
+            }
+            Debug.Log(palabras.Count);
+            foreach(var palabra in palabras )
+            {
+                Debug.Log("palabra= " + palabra.name);
+                dropdown.options.Add(new Dropdown.OptionData() { text = palabra.name });
+            }
 
-            }
-            foreach(var palabra in palabras)
-            {
-                dropdown.options.Add(new Dropdown.OptionData() { text = palabra });
-            }
+            
+            
         }
         connection.Close();
     }
@@ -63,28 +78,21 @@ public class autocomplete : MonoBehaviour
 
     
     
-    int n = 0;
+    
     
     void DropdownItemSelected(Dropdown dropdown)
     {
         int index = dropdown.value;
-        
-        guardar.Add(dropdown.options[index].text);
+        Debug.Log(palabras[index]);
+
+        guardar.Add(palabras[index]);
+        dato.Add(dropdown.options[index].text);
         Debug.Log("Se agrego= " + dropdown.options[index].text);
-        text.text = string.Join(", ", guardar);
+        text.text = string.Join(" ", dato);
     }
 
-    public string imprimir(List<string> dato)
-    {
-        var text = string.Empty;
-        foreach (string palabra in dato)
-        {
-            text += palabra.ToString() + "\r\n";
-        }
-        return text;
-
-    }
-
+    
+    
 
     public void delete()
     {
