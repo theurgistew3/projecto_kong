@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Animations;
-using UnityEditor.Animations;
 using System;
 using System.Data;
 using Mono.Data.Sqlite;
@@ -29,18 +28,10 @@ public class Reproducir : chibi.Chibi_behaviour
     public GameObject botonplay;
     public Slider slider;
     public Text text;
-    public bool play;
-    public bool termino;
     public chibi.pomodoro.Pomodoro_obj timer;
     protected struct_animation _current;
     public traductor.animator.Animator_npc_sordos animator;
-    string dburl;
-    IDbConnection connection;
-    IDbCommand command;
-    IDataReader reader;
-    string databasename = "Image_Data.db";
-    string comando = "SELECT letra, idAnim FROM Alfabeto WHERE letra = 'A' or letra = 'B' or letra  = 'C' or letra = 'M' or letra = 'N' or letra = 'X' or letra = 'Y'";
-
+    
     public List<struct_animation> lista = new List<struct_animation>();
     //abcmnxyz
     //A y M
@@ -67,14 +58,6 @@ public class Reproducir : chibi.Chibi_behaviour
     {
         
         base._init_cache();
-
-        string filepath = Application.dataPath + "/Resources/Traductor/Data_Base/" + databasename;
-        dburl = "URI=file:" + filepath;
-
-        Debug.Log("Conexion establecida" + dburl);
-        connection = new SqliteConnection(dburl);
-        connection.Open();
-
         
 
         //reader_funcion();
@@ -85,39 +68,6 @@ public class Reproducir : chibi.Chibi_behaviour
         //Cambiartext(lista);
     }
 
-    private void reader_funcion()
-    {
-        int i = 7;
-        int n = 0;
-        struct_animation[] obj = new struct_animation[i];
-        using (connection = new SqliteConnection(dburl))
-        {
-            connection.Open();
-            command = connection.CreateCommand();
-            command.CommandText = comando;
-            reader = command.ExecuteReader();
-            if(n==i)
-            {
-                Debug.Log("Lista llena");
-            }
-            else
-            {
-                while (reader.Read())
-                {
-                    string letra = reader.GetString(0);
-                    int ID = reader.GetInt32(1);
-
-                    Debug.Log("letra= " + letra + " ID= " + ID);
-                    
-                    obj[n] = new struct_animation(letra, ID);
-                    lista.Add(obj[n]);
-                    n++;
-                }
-            }
-
-            connection.Close();
-        }
-    }
 
     int posicion = 0;
     
