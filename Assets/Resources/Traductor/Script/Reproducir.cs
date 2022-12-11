@@ -73,12 +73,7 @@ public class Reproducir : chibi.Chibi_behaviour
         connection = new SqliteConnection(dburl);
         connection.Open();
 
-        /*var obj1 = new struct_animation("A", 1);
-        var obj2 = new struct_animation("B", 2);
-        var obj3 = new struct_animation("X", 26);
-        lista.Add(obj1);
-        lista.Add(obj2);
-        lista.Add(obj3);*/
+        
 
         reader_funcion();
 
@@ -158,6 +153,8 @@ public class Reproducir : chibi.Chibi_behaviour
         
 
     }
+
+    
 
     public void on_play()
     {
