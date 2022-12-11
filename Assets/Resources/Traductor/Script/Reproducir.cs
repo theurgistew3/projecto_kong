@@ -5,7 +5,8 @@ using UnityEngine.UI;
 using UnityEngine.Animations;
 using UnityEditor.Animations;
 using System;
-
+using System.Data;
+using Mono.Data.Sqlite;
 
 
 
@@ -30,10 +31,16 @@ public class Reproducir : chibi.Chibi_behaviour
     public Text text;
     public bool play;
     public bool termino;
-    bool slide = false;
     public chibi.pomodoro.Pomodoro_obj timer;
     protected struct_animation _current;
     public traductor.animator.Animator_npc_sordos animator;
+    string dburl;
+    IDbConnection connection;
+    IDbCommand command;
+    IDataReader reader;
+    string databasename = "Image_Data.db";
+    string comando = "SELECT letra, idAnim FROM Alfabeto WHERE letra = 'A' or letra = 'B' or letra  = 'C' or letra = 'M' or letra = 'N' or letra = 'X' or letra = 'Y'";
+    //abcmnxyz
     //A y M
 
     public struct_animation current
@@ -54,24 +61,65 @@ public class Reproducir : chibi.Chibi_behaviour
 
     List<struct_animation> lista = new List<struct_animation>();
 
-
     protected override void _init_cache()
     {
         
         base._init_cache();
-        
 
-        var obj1 = new struct_animation("A", 1);
+        string filepath = Application.dataPath + "/Resources/Traductor/Data_Base/" + databasename;
+        dburl = "URI=file:" + filepath;
+
+        Debug.Log("Conexion establecida" + dburl);
+        connection = new SqliteConnection(dburl);
+        connection.Open();
+
+        /*var obj1 = new struct_animation("A", 1);
         var obj2 = new struct_animation("B", 2);
-        var obj3 = new struct_animation("C", 3);
+        var obj3 = new struct_animation("X", 26);
         lista.Add(obj1);
         lista.Add(obj2);
-        lista.Add(obj3);
+        lista.Add(obj3);*/
+
+        reader_funcion();
+
         
-        //abcmnxyz
         timer = new chibi.pomodoro.Pomodoro_obj(5.0f);
         timer.is_enable = false;
         //Cambiartext(lista);
+    }
+
+    private void reader_funcion()
+    {
+        int i = 7;
+        int n = 0;
+        struct_animation[] obj = new struct_animation[i];
+        using (connection = new SqliteConnection(dburl))
+        {
+            connection.Open();
+            command = connection.CreateCommand();
+            command.CommandText = comando;
+            reader = command.ExecuteReader();
+            if(n==i)
+            {
+                Debug.Log("Lista llena");
+            }
+            else
+            {
+                while (reader.Read())
+                {
+                    string letra = reader.GetString(0);
+                    int ID = reader.GetInt32(1);
+
+                    Debug.Log("letra= " + letra + " ID= " + ID);
+                    
+                    obj[n] = new struct_animation(letra, ID);
+                    lista.Add(obj[n]);
+                    n++;
+                }
+            }
+
+            connection.Close();
+        }
     }
 
     int posicion = 0;

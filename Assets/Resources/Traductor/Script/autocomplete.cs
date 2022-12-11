@@ -14,11 +14,13 @@ public class autocomplete : MonoBehaviour
     IDbConnection connection;
     IDbCommand command;
     IDataReader reader;
-    string databasename = "Base_de_Datos.db";
+    string databasename = "Image_Data.db";
     string comando = "SELECT * FROM palabra";
+    List<string> guardar = new List<string>();
 
     void Start()
     {
+        guardar.Clear();
         string filepath = Application.dataPath + "/Resources/Traductor/Data_Base/" + databasename;
 
         dburl = "URI=file:" + filepath;
@@ -31,6 +33,8 @@ public class autocomplete : MonoBehaviour
         connection.Open();
 
         reader_funcion(dropdown);
+
+        dropdown.onValueChanged.AddListener(delegate { DropdownItemSelected(dropdown); });
     }
 
 
@@ -56,12 +60,36 @@ public class autocomplete : MonoBehaviour
         connection.Close();
     }
 
+
+    
+    
+    int n = 0;
+    
     void DropdownItemSelected(Dropdown dropdown)
     {
         int index = dropdown.value;
-
-        text.text = dropdown.options[index].text;
+        
+        guardar.Add(dropdown.options[index].text);
+        Debug.Log("Se agrego= " + dropdown.options[index].text);
+        text.text = string.Join(", ", guardar);
     }
 
+    public string imprimir(List<string> dato)
+    {
+        var text = string.Empty;
+        foreach (string palabra in dato)
+        {
+            text += palabra.ToString() + "\r\n";
+        }
+        return text;
+
+    }
+
+
+    public void delete()
+    {
+        Debug.Log("Se elimino registro");
+        guardar.Clear();
+    }
     
 }
