@@ -31,13 +31,59 @@ public class autocomplete : chibi.Chibi_behaviour
         base._init_cache();
         guardar.Clear();
         dato.Clear();
+      palabras.Clear();
+      palabras = new List<struct_animation>()
+      {
+new struct_animation("A", 1),
+new struct_animation("b", 2),
+new struct_animation("C", 3),
+new struct_animation("D", 4),
+new struct_animation("E", 5),
+new struct_animation("F", 6),
+new struct_animation("G", 7),
+new struct_animation("H", 8),
+new struct_animation("i", 9),
+new struct_animation("j", 10),
+new struct_animation("K", 11),
+new struct_animation("L", 12),
+new struct_animation("Ll", 13),
+new struct_animation("M", 14),
+new struct_animation("N", 15),
+new struct_animation("o", 16),
+new struct_animation("P", 17),
+new struct_animation("Q", 18),
+new struct_animation("r", 19),
+new struct_animation("rr", 20),
+new struct_animation("S", 21),
+new struct_animation("T", 22),
+new struct_animation("U", 23),
+new struct_animation("V", 24),
+new struct_animation("W", 25),
+new struct_animation("X", 26),
+new struct_animation("y", 27),
+new struct_animation("Ñ", 28),
+new struct_animation("catorce", 29),
+new struct_animation("adios", 30),
+new struct_animation("ellos", 31),
+      };
 
         dropdown.options.Clear();
 
-        reader_funcion2(dropdown);
+        //reader_funcion2(dropdown);
+        reader_funcion3(dropdown);
 
         //dropdown.onValueChanged.AddListener(delegate { DropdownItemSelected(dropdown); });
     }
+
+    private void reader_funcion3(Dropdown dropdown)
+    {
+		foreach (var palabra in palabras)
+		{
+			 //Debug.Log("palabra= " + palabra.name);
+			 dropdown.options.Add(new Dropdown.OptionData() { text = palabra.name });
+		}
+    }
+
 
     private void reader_funcion2(Dropdown dropdown)
     {
@@ -51,8 +97,6 @@ public class autocomplete : chibi.Chibi_behaviour
 		reader = command.ExecuteReader();
 		int n = 0;
 		int i = 51;
-
-      debug.log( "despues de creacion" );
 
 		struct_animation[] obj = new struct_animation[i];
 		while (reader.Read())
@@ -84,13 +128,11 @@ public class autocomplete : chibi.Chibi_behaviour
         command = con.CreateCommand();
         command.CommandText = insert1;
         reader = command.ExecuteReader();
-      debug.log( "asdf" );
 
         string insert2 = "INSERT INTO Alfabeto(letra, idanim) VALUES('A', 1), ('B', 2), ('C', 3), ('D', 4), ('E', 5), ('F', 6) , ('G', 7), ('H', 8)";
         command = con.CreateCommand();
         command.CommandText = insert2;
         command.ExecuteNonQuery();
-      debug.log( "qwert" );
 
 
     }
