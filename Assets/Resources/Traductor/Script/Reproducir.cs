@@ -67,7 +67,7 @@ public class Reproducir : chibi.Chibi_behaviour
     }
 
 
-    int posicion = 0;
+    public int posicion = 0;
     
 
     // Update is called once per frame
@@ -116,7 +116,7 @@ public class Reproducir : chibi.Chibi_behaviour
     public void on_forward()
     {
         Debug.Log("Se pusho adelantar");
-        if (posicion > lista.Count)
+        if (posicion == lista.Count)
         {
             Debug.Log("Fin de la lista");
         }
@@ -130,7 +130,7 @@ public class Reproducir : chibi.Chibi_behaviour
     public void on_back()
     {
         Debug.Log("Se pusho atrasar");
-        if(posicion < 0)
+        if(posicion == 0)
         {
             Debug.Log("Inicio de la lista");
         }

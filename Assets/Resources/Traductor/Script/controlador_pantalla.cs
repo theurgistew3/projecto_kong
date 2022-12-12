@@ -28,6 +28,7 @@ public class controlador_pantalla : MonoBehaviour
     public void traducir()
     {
         reproducir.lista = autocomplete.guardar;
+        
         canvas1.SetActive(false);
         canvas2.SetActive(true);
     }
@@ -36,6 +37,10 @@ public class controlador_pantalla : MonoBehaviour
     {
         canvas1.SetActive(true);
         canvas2.SetActive(false);
+        reproducir.lista.Clear();
+        reproducir.posicion = 0;
+        autocomplete.dato.Clear();
+        autocomplete.guardar.Clear();
     }
 
 
