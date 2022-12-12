@@ -20,6 +20,8 @@ public class autocomplete : chibi.Chibi_behaviour
     string comando = "SELECT * FROM palabra WHERE id < 29";
     string filepath = Application.streamingAssetsPath + "/Resources/Traductor/Data_Base/";
 
+   public SqliteConnection connection_other;
+
     public List<struct_animation> guardar = new List<struct_animation>();
     public List<struct_animation> palabras = new List<struct_animation>();
     public List<string> dato = new List<string>();
@@ -30,191 +32,65 @@ public class autocomplete : chibi.Chibi_behaviour
         guardar.Clear();
         dato.Clear();
 
-        
-        Debug.Log("Directorio= " + filepath);
-
-
-
-        
-
         dropdown.options.Clear();
-        
 
-        reader_funcion(dropdown);
+        reader_funcion2(dropdown);
 
-        dropdown.onValueChanged.AddListener(delegate { DropdownItemSelected(dropdown); });
+        //dropdown.onValueChanged.AddListener(delegate { DropdownItemSelected(dropdown); });
     }
-
-
-    private void reader_funcion(Dropdown dropdown)
-    {
-
-        if(filepath.Contains("base.apk"))
-        {
-            filepath = filepath.Replace("base.apk", "");
-        }
-
-        if(!Directory.Exists(filepath))
-        {
-            Directory.CreateDirectory(filepath);
-            Debug.Log("Directorio creado=" + filepath);
-        }
-
-        filepath = Path.Combine(filepath, databasename);
-
-        if (File.Exists(filepath))
-        {
-            Debug.Log("Existe el archivo");
-
-        }
-
-
-        if (!File.Exists(filepath))
-        {
-            
-            var file = File.Create("Filename=:memory:");
-            
-            file.Close();
-            
-        }
-
-        
-
-        dburl = "URI=file:" + filepath;
-
-
-        using (connection = new SqliteConnection("Filename=:memory:"))
-        {
-            connection.Open();
-            creartabla(connection);
-            insertar(connection);
-            connection.Close();
-        }
-
-        using (connection = new SqliteConnection("Filename=:memory:"))
-        {
-            connection.Open();
-            
-
-            command = connection.CreateCommand();
-            command.CommandText = comando;
-            reader = command.ExecuteReader();
-            int n = 0;
-            int i = 51;
-            
-            struct_animation[] obj = new struct_animation[i];
-            while (reader.Read())
-            {
-                string palabra = reader.GetString(0);
-                int id = reader.GetInt32(1);
-                obj[n] = new struct_animation(palabra, id);
-                palabras.Add(obj[n]);
-                n++;
-            }
-            Debug.Log(palabras.Count);
-            foreach(var palabra in palabras )
-            {
-                Debug.Log("palabra= " + palabra.name);
-                dropdown.options.Add(new Dropdown.OptionData() { text = palabra.name });
-            }
-
-            
-            
-        }
-        connection.Close();
-    }
-
 
     private void reader_funcion2(Dropdown dropdown)
     {
+      connection_other = new SqliteConnection( "Data Source=:memory:" );
+		connection_other.Open();
+		creartabla(connection_other);
+		insertar(connection_other);
 
-        if (filepath.Contains("base.apk"))
-        {
-            filepath = filepath.Replace("base.apk", "");
-        }
+		command = connection_other.CreateCommand();
+		command.CommandText = comando;
+		reader = command.ExecuteReader();
+		int n = 0;
+		int i = 51;
 
-        if (!Directory.Exists(filepath))
-        {
-            Directory.CreateDirectory(filepath);
-            Debug.Log("Directorio creado=" + filepath);
-        }
+      debug.log( "despues de creacion" );
 
-        filepath = Path.Combine(filepath, databasename);
-
-        if (File.Exists(filepath))
-        {
-            Debug.Log("Existe el archivo");
-
-        }
-
-
-        if (!File.Exists(filepath))
-        {
-
-            var file = File.Create("Filename=:memory:");
-
-            file.Close();
-
-        }
-
-
-
-        dburl = "URI=file:" + filepath;
-
-
-        using (connection = new SqliteConnection("Filename=:memory:"))
-        {
-            connection.Open();
-            creartabla(connection);
-            insertar(connection);
-            connection.Close();
-        }
-
-        using (connection = new SqliteConnection("Filename=:memory:"))
-        {
-            connection.Open();
-
-
-            command = connection.CreateCommand();
-            command.CommandText = comando;
-            reader = command.ExecuteReader();
-            int n = 0;
-            int i = 51;
-
-            struct_animation[] obj = new struct_animation[i];
-            while (reader.Read())
-            {
-                string palabra = reader.GetString(0);
-                int id = reader.GetInt32(1);
-                obj[n] = new struct_animation(palabra, id);
-                palabras.Add(obj[n]);
-                n++;
-            }
-            Debug.Log(palabras.Count);
-            foreach (var palabra in palabras)
-            {
-                Debug.Log("palabra= " + palabra.name);
-                dropdown.options.Add(new Dropdown.OptionData() { text = palabra.name });
-            }
-
-
-
-        }
-        connection.Close();
+		struct_animation[] obj = new struct_animation[i];
+		while (reader.Read())
+		{
+			 string palabra = reader.GetString(0);
+			 int id = reader.GetInt32(1);
+			 obj[n] = new struct_animation(palabra, id);
+			 palabras.Add(obj[n]);
+			 n++;
+		}
+		Debug.Log(palabras.Count);
+		foreach (var palabra in palabras)
+		{
+			 Debug.Log("palabra= " + palabra.name);
+			 dropdown.options.Add(new Dropdown.OptionData() { text = palabra.name });
+		}
     }
 
+	protected override void OnDisable()
+	{
+      base.OnDisable();
+      connection_other.Close();
+	}
 
-    private void insertar(IDbConnection con)
+
+	private void insertar(IDbConnection con)
     {
         string insert1 = "INSERT INTO Animacion(animid) VALUES(1), (2), (3), (4), (5), (6) , (7), (8), (9), (10)";
         command = con.CreateCommand();
         command.CommandText = insert1;
         reader = command.ExecuteReader();
+      debug.log( "asdf" );
 
         string insert2 = "INSERT INTO Alfabeto(letra, idanim) VALUES('A', 1), ('B', 2), ('C', 3), ('D', 4), ('E', 5), ('F', 6) , ('G', 7), ('H', 8)";
         command = con.CreateCommand();
         command.CommandText = insert2;
         command.ExecuteNonQuery();
+      debug.log( "qwert" );
 
 
     }
@@ -237,8 +113,19 @@ public class autocomplete : chibi.Chibi_behaviour
         command.ExecuteNonQuery();
     }
 
-    
-    
+
+
+   public void on_dropbox_change()
+   {
+        int index = dropdown.value;
+        Debug.Log(palabras[index]);
+
+        guardar.Add(palabras[index]);
+        dato.Add(dropdown.options[index].text);
+        Debug.Log("Se agrego= " + dropdown.options[index].text);
+        text.text = string.Join(" ", dato);
+   }
+
     void DropdownItemSelected(Dropdown dropdown)
     {
         int index = dropdown.value;
