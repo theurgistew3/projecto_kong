@@ -4,8 +4,6 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Animations;
 using System;
-using System.Data;
-using Mono.Data.Sqlite;
 
 
 
