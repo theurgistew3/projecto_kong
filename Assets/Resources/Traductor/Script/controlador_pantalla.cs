@@ -17,7 +17,6 @@ public class controlador_pantalla : MonoBehaviour
     void Start()
     {
         canvas2.SetActive(false);
-        reproducir.enabled = false;
     }
 
 
@@ -31,16 +30,12 @@ public class controlador_pantalla : MonoBehaviour
         reproducir.lista = autocomplete.guardar;
         canvas1.SetActive(false);
         canvas2.SetActive(true);
-        reproducir.enabled = true;
-        autocomplete.enabled = false;
     }
 
     public void volver()
     {
         canvas1.SetActive(true);
         canvas2.SetActive(false);
-        autocomplete.enabled = true;
-        reproducir.enabled = false;
     }
 
 
