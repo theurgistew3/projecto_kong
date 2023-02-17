@@ -18,6 +18,9 @@ namespace traductor.editor.board
 			string numbers = "Assets/Resources/Traductor/Animaciones/Numeros 1-20";
 			string saludos = "Assets/Resources/Traductor/Animaciones/Saludos";
 			string sujetos = "Assets/Resources/Traductor/Animaciones/Sujetos";
+			string adjetivo = "Assets/Resources/Traductor/Animaciones/Adjetivos";
+			string verbo = "Assets/Resources/Traductor/Animaciones/Verbos";
+			string colores = "Assets/Resources/Traductor/Animaciones/Colores";
 
 			var controller = UnityEditor.Animations.AnimatorController.CreateAnimatorControllerAtPath(
 				"Assets/Resources/Traductor/animations/cosa.controller" );
@@ -41,6 +44,12 @@ namespace traductor.editor.board
 				idle_state, saludos, root_state_machine, ref states, current_id ) ;
 			current_id = create_animation_from_directory(
 				idle_state, sujetos, root_state_machine, ref states, current_id ) ;
+			current_id = create_animation_from_directory(
+				idle_state, adjetivo, root_state_machine, ref states, current_id);
+			current_id = create_animation_from_directory(
+				idle_state, verbo, root_state_machine, ref states, current_id);
+			current_id = create_animation_from_directory(
+				idle_state, colores, root_state_machine, ref states, current_id);
 			//copia  %LOCALAPPDATA%\Unity\Editor\Editor.log 
 
 
@@ -131,3 +140,7 @@ namespace traductor.editor.board
 		}
 	}
 }
+
+
+
+

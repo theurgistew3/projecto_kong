@@ -58,12 +58,12 @@ public class Reproducir : chibi.Chibi_behaviour
         base._init_cache();
         
 
-        //reader_funcion();
+        
 
         
         timer = new chibi.pomodoro.Pomodoro_obj(5.0f);
         timer.is_enable = false;
-        //Cambiartext(lista);
+        
     }
 
 

@@ -10,6 +10,8 @@ public class controlador_pantalla : MonoBehaviour
 
     public GameObject canvas1;
     public GameObject canvas2;
+    public GameObject canvas3;
+    public GameObject canvas4;
 
     
 
@@ -17,32 +19,51 @@ public class controlador_pantalla : MonoBehaviour
     void Start()
     {
         canvas2.SetActive(false);
+        canvas3.SetActive(false);
+        canvas4.SetActive(false);
     }
 
 
-    public void lista(List<string> palabras)
+    public void inicio()
     {
+        canvas1.SetActive(false);
+        canvas2.SetActive(true);
+    }
 
+    public void frase()
+    {
+        canvas2.SetActive(false);
+        canvas3.SetActive(true);
     }
 
     public void traducir()
     {
         reproducir.lista = autocomplete.guardar;
-        
-        canvas1.SetActive(false);
-        canvas2.SetActive(true);
+        Debug.Log(autocomplete.text.text);
+        canvas3.SetActive(false);
+        canvas4.SetActive(true);
     }
 
-    public void volver()
+    public void volver_frase()
     {
-        canvas1.SetActive(true);
-        canvas2.SetActive(false);
         reproducir.lista.Clear();
         reproducir.posicion = 0;
         autocomplete.dato.Clear();
         autocomplete.guardar.Clear();
+        canvas3.SetActive(true);
+        canvas4.SetActive(false);
+        
     }
 
+    public void volver_menu()
+    {
+        autocomplete.dato.Clear();
+        autocomplete.guardar.Clear();
+        canvas2.SetActive(true);
+        canvas3.SetActive(false);
+    }
+
+    
 
     // Update is called once per frame
     void Update()
